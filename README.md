@@ -12,4 +12,4 @@ Some of the favorite memories I had with my friends over summer would be summer 
 
 ## My favorite things in life
 Some of the favorite things I love to do in life
-
+![Image of my favorite things](collage.jpg)
